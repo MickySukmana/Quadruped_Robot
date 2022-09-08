@@ -1,12 +1,6 @@
 
 // Fill-in information from your Blynk Template here
-/*
-#define BLYNK_TEMPLATE_ID "TMPLoua0H9la"
-#define BLYNK_DEVICE_NAME "KendaliServo"
-/*
-#define BLYNK_TEMPLATE_ID "TMPL4giTRFIu"
-#define BLYNK_DEVICE_NAME "Kelompok Sistem Embedded"
-*/
+
 
 #define BLYNK_TEMPLATE_ID "xxxxxxxxxxxx"
 #define BLYNK_DEVICE_NAME "xxxxxxxxxxxx"
