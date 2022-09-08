@@ -1,5 +1,5 @@
 # Quadruped_Robot
-Quadruped Robot using arduino uno and ESP8266. the robot is programmed to sit, stand, move forward and backward.  
+Quadruped Robot using arduino uno and ESP8266. the robot is programmed to sit, stand, and move forward.  
 
 there's two version of program in this repo. the one who move forward and stop after certain amount of steps and the one that can be controlled using blynk apps.  
 
