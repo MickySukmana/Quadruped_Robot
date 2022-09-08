@@ -8,8 +8,8 @@
 #define BLYNK_DEVICE_NAME "Kelompok Sistem Embedded"
 */
 
-#define BLYNK_TEMPLATE_ID "TMPLfOhamE7V"
-#define BLYNK_DEVICE_NAME "KendaliServo"
+#define BLYNK_TEMPLATE_ID "xxxxxxxxxxxx"
+#define BLYNK_DEVICE_NAME "xxxxxxxxxxxx"
 
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
 
